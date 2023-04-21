@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ I currently work at Agricola Andrea S.A.C as a backend developer. 💻<br>✔ I´m loocking to colaborated with others backend, frontend or full stack developers. 🤝<br>✔ I'mm currently learning Angular and Flutter Frontend Framework for mobile development.📱🌐 <br>✔ Ask me about backend development in .Net. 🤔<br>✔ I'm looking for team working. 🤝✨
+✔ I currently work at Agricola Andrea S.A.C as a backend developer. 💻<br>✔ I´m loocking to colaborated with others backend, frontend or full stack developers. 🤝<br>✔ I'm currently learning Angular and Flutter Frontend Framework for mobile development.📱🌐 <br>✔ Ask me about backend development in .Net. 🤔<br>✔ I'm looking for team working. 🤝✨
 
 
 ## 🌐 Socials:
